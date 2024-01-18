@@ -13,7 +13,7 @@ export default function SectionHeader() {
         <Link href="https://github.com/Tomlord1122">
           {" "}
           <Button className="w-22 bg-gray-500 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded  border-slate-200 border-2">
-            Gihub
+            Github
           </Button>
         </Link>
 
