@@ -7,7 +7,7 @@ export default function AboutMe() {
           Hi, I&apos;m Tom
         </div>
         <div className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-slate-600 via-slate-800 to-black animate-wiggle">
-          I&apos;<menu type="toolbar"></menu> a software engineer
+          I&apos;m a software engineer
         </div>
         <div className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-slate-600 via-slate-800 to-black animate-wiggle ">
           Study at NTU
