@@ -21,7 +21,7 @@ export default function AboutMe() {
         src="/Profile.jpg"
         alt="Avatar"
         width={900}
-        height={0}></Image>
+        height={1200}></Image>
 
       {/* Write a introduction */}
     </div>
