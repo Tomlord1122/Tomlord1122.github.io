@@ -47,14 +47,41 @@ export default function Skill() {
           height={100}></BentoGrid>
       </div>
 
-      {/* Side Project Part */}
-      {/* <div className="md:w-1/2 w-full mt-5  flex flex-col justify-center items-center ">
+      <div className="md:w-1/2 w-full mt-5  flex flex-col justify-center items-center  ">
         {" "}
         <section>
-          <h1 className=" text-4xl">asdasdsadsadasdasd</h1>
-          <p>asdasdasddasadss</p>
+          <h1 className=" text-4xl font-extrabold">Skill details</h1>
+          <p></p>
         </section>
-      </div> */}
+        <section>
+          <h1 className=" text-4xl font-extrabold">.</h1>
+          <p></p>
+        </section>
+        <section>
+          <h1 className=" text-4xl font-extrabold">.</h1>
+          <p></p>
+        </section>
+        <section>
+          <h1 className=" text-4xl font-extrabold">.</h1>
+          <p></p>
+        </section>
+        <section>
+          <h1 className=" text-4xl font-extrabold">.</h1>
+          <p></p>
+        </section>
+        <section>
+          <h1 className=" text-4xl font-extrabold">.</h1>
+          <p></p>
+        </section>
+        <section>
+          <h1 className=" text-4xl font-extrabold">.</h1>
+          <p></p>
+        </section>
+        <section>
+          <h1 className=" text-4xl font-extrabold">.</h1>
+          <p></p>
+        </section>
+      </div>
     </main>
   );
 }
