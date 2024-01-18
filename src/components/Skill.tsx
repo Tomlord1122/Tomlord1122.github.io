@@ -2,7 +2,7 @@ import { BentoGrid } from "./BentoGrid";
 
 export default function Skill() {
   return (
-    <main className="flex flex-col md:flex md:flex-row">
+    <main className="flex flex-col-reverse md:flex md:flex-row">
       <div className="w-full md:w-1/2 h-screen grid grid-cols-3 grid-rows-3 gap-2 p-2">
         <BentoGrid
           className="row-span-1 col-span-1   hover:scale-110 transition-all  hover:bg-blue-400"
@@ -26,8 +26,8 @@ export default function Skill() {
           height={200}></BentoGrid>
 
         <BentoGrid
-          className="row-span-1 col-span-1 mt-20 hover:scale-110 transition-all  hover:bg-blue-400"
-          img="/next.svg"
+          className="row-span-1 col-span-1  hover:scale-110 transition-all  hover:bg-blue-400"
+          img="/next-js.svg"
           width={200}
           height={100}></BentoGrid>
         <BentoGrid
@@ -47,7 +47,14 @@ export default function Skill() {
           height={100}></BentoGrid>
       </div>
 
-      <p> </p>
+      {/* Side Project Part */}
+      {/* <div className="md:w-1/2 w-full mt-5  flex flex-col justify-center items-center ">
+        {" "}
+        <section>
+          <h1 className=" text-4xl">asdasdsadsadasdasd</h1>
+          <p>asdasdasddasadss</p>
+        </section>
+      </div> */}
     </main>
   );
 }
