@@ -20,8 +20,8 @@ export default function AboutMe() {
         className="  rounded-full border-gray-200  shadow-md shadow-black  border-2"
         src="/Profile.jpg"
         alt="Avatar"
-        width={900}
-        height={1200}></Image>
+        width={1000}
+        height={800}></Image>
 
       {/* Write a introduction */}
     </div>
