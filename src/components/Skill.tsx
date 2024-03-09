@@ -32,7 +32,7 @@ export default function Skill() {
           height={100}></BentoGrid>
         <BentoGrid
           className="row-span-1 col-span-1 hover:scale-110 transition-all  hover:bg-blue-400"
-          img="/rust.svg"
+          img="/Go.png"
           width={200}
           height={100}></BentoGrid>
         <BentoGrid
