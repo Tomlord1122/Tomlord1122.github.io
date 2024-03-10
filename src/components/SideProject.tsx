@@ -17,6 +17,12 @@ export default function SideProject() {
           href="https://github.com/Tomlord1122/Tomlord1122.github.io">
           Portfolio
         </Link>
+
+        <Link
+          className=" border-2 border-gray-400 shadow-black p-4 rounded-md shadow-md font-bold hover:scale-105  transition-all  hover:bg-blue-400 "
+          href="https://github.com/Tomlord1122/mini-c-shell">
+          mini-c-shell
+        </Link>
       </div>
     </main>
   );
