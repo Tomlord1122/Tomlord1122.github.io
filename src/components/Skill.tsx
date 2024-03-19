@@ -47,26 +47,26 @@ export default function Skill() {
           height={100}></BentoGrid>
       </div>
 
-      <div className="md:w-1/2 w-full mt-5  flex flex-col justify-center  items-start  ">
+      <div className="md:w-1/2 w-3/4 mt-5  flex flex-col justify-center  items-start  ">
         {" "}
         <section>
           <h1 className=" text-4xl font-extrabold">Experience</h1>
-          <p></p>
           {/* divider */}
           <div className="w-full h-1 bg-gray-400 my-5"></div>
+          <p></p>
         </section>
-        <section>
+        <section className="mb-3">
           <h1 className=" text-xl font-extrabold">
             MediaTek System Research Assistant (Jan 2024 - Now)
           </h1>
+          {/* divider */}
+          {/* <div className="w-full h-[1px] bg-gray-400 my-2"></div> */}
           <p>
             Research compiler Auto-vectorization and Analysis on ARM and RISC-V
             Architecture.
           </p>
-          {/* divider */}
-          <div className="w-full h-[1px] bg-gray-400 my-2"></div>
         </section>
-        <section>
+        <section className="mb-3">
           <h1 className=" text-xl font-extrabold">
             MediaTek Research Assistant (Aug 2023 - Dec 2023)
           </h1>
@@ -75,9 +75,9 @@ export default function Skill() {
             Parallelization to speed up the Architecture performance.
           </p>
           {/* divider */}
-          <div className="w-full h-[1px] bg-gray-400 my-2"></div>
+          {/* <div className="w-full h-[1px] bg-gray-400 my-2"></div> */}
         </section>
-        <section>
+        <section className="mb-3">
           <h1 className=" text-xl font-extrabold">
             Sinotech Engineering Consultant Intern (Jul 2020 - Aug 2020)
           </h1>
@@ -86,7 +86,7 @@ export default function Skill() {
             internal Dev Tools.
           </p>
           {/* divider */}
-          <div className="w-full h-[1px] bg-gray-400 my-2"></div>
+          {/* <div className="w-full h-[1px] bg-gray-400 my-2"></div> */}
         </section>
       </div>
     </main>
