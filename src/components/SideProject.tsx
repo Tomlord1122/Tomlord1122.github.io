@@ -26,7 +26,7 @@ export default function SideProject() {
         <Link
           className=" border-2 border-gray-400 shadow-black p-4 rounded-md shadow-md font-bold hover:scale-105  transition-all  hover:bg-blue-400 "
           href="https://github.com/Tomlord1122/Dcard-Backend-Intern">
-          dcard-backend-intern
+          mini-ads-services
         </Link>
       </div>
     </main>
