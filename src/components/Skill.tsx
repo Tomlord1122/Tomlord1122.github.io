@@ -47,7 +47,7 @@ export default function Skill() {
           height={100}></BentoGrid>
       </div>
 
-      <div className="md:w-1/2 w-3/4 mt-5  flex flex-col justify-center  items-start  ">
+      <div className="md:w-1/2 w-3/4 mt-5 ml-5 flex flex-col justify-center  items-start  ">
         {" "}
         <section>
           <h1 className=" text-4xl font-extrabold">Experience</h1>

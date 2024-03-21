@@ -21,7 +21,7 @@ export default function AboutMe() {
         src="/Profile.jpg"
         alt="Avatar"
         layout="fixed"
-        width={1150}
+        width={1050}
         height={720}></Image>
 
       {/* Write a introduction */}
