@@ -28,6 +28,11 @@ export default function SideProject() {
           href="https://github.com/Tomlord1122/Dcard-Backend-Intern">
           mini-ads-services
         </Link>
+        <Link
+          className=" border-2 border-gray-400 shadow-black p-4 rounded-md shadow-md font-bold hover:scale-105  transition-all  hover:bg-blue-400 "
+          href="https://github.com/Tomlord1122/kernel-module-practice-/tree/main">
+          kernel-module-practice
+        </Link>
       </div>
     </main>
   );
