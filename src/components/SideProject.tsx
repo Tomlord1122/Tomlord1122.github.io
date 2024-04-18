@@ -33,6 +33,11 @@ export default function SideProject() {
           href="https://github.com/Tomlord1122/kernel-module-practice-/tree/main">
           kernel-module-practice
         </Link>
+        <Link
+          className=" border-2 border-gray-400 shadow-black p-4 rounded-md shadow-md font-bold hover:scale-105  transition-all  hover:bg-blue-400 "
+          href="https://github.com/Tomlord1122/linux-scheduler/tree/main">
+          linux-kernel-implementation
+        </Link>
       </div>
     </main>
   );
