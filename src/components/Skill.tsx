@@ -57,6 +57,16 @@ export default function Skill() {
         </section>
         <section className="mb-3">
           <h1 className=" text-xl font-extrabold">
+            Hewlett-Packard Company Software Engineering Intern (Jul 2024 - Now)
+          </h1>
+          {/* divider */}
+          {/* <div className="w-full h-[1px] bg-gray-400 my-2"></div> */}
+          <p>
+            In operating system department.
+          </p>
+        </section>
+        <section className="mb-3">
+          <h1 className=" text-xl font-extrabold">
             MediaTek System Research Assistant (Jan 2024 - Now)
           </h1>
           {/* divider */}
