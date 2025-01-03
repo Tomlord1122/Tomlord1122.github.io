@@ -47,6 +47,7 @@ export default function Skill() {
           height={100}></BentoGrid>
       </div>
 
+      {/* Experience */}
       <div className="md:w-1/2 w-3/4 mt-5 ml-5 flex flex-col justify-center  items-start  ">
         {" "}
         <section>
@@ -75,17 +76,6 @@ export default function Skill() {
             Research compiler Auto-vectorization and Analysis on ARM and RISC-V
             Architecture.
           </p>
-        </section>
-        <section className="mb-3">
-          <h1 className=" text-xl font-extrabold">
-            MediaTek Research Assistant (Aug 2023 - Dec 2023)
-          </h1>
-          <p>
-            Researched code optimization technique Superword-Level
-            Parallelization to speed up the Architecture performance.
-          </p>
-          {/* divider */}
-          {/* <div className="w-full h-[1px] bg-gray-400 my-2"></div> */}
         </section>
         <section className="mb-3">
           <h1 className=" text-xl font-extrabold">
